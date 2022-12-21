@@ -49,11 +49,9 @@ You will be asked to post the contents of these mails in your `shim-review` issu
 - Name: Thomas Reid
 - Position: Engineer
 - Email address: tom.reid@ziperase.com
-- PGP key fingerprint:
+- PGP key fingerprint: `A1AC 6F9B B20A 530E 9D09  BDDC 50D1 7BD8 35FD 4073`
 
-(Key should be signed by the other security contacts, pushed to a keyserver
-like keyserver.ubuntu.com, and preferably have signatures that are reasonably
-well known in the Linux community.)
+Signed by Colin Myers (below) and pushed to [the openpgp keyserver](keys.openpgp.org)
 
 *******************************************************************************
 ### Who is the secondary contact for security updates, etc.?
@@ -61,11 +59,9 @@ well known in the Linux community.)
 - Name: Colin Myers
 - Position: Senior Engineer
 - Email address: colin.myers@ziperase.com
-- PGP key fingerprint:
+- PGP key fingerprint: `34C4 A14D D147 2176 B55F  EA52 BF9B 0C7C 8D2E 9BF8`
 
-(Key should be signed by the other security contacts, pushed to a keyserver
-like keyserver.ubuntu.com, and preferably have signatures that are reasonably
-well known in the Linux community.)
+Signed by Thomas Reid (above) and pushed to [the openpgp keyserver](keys.openpgp.org)
 
 *******************************************************************************
 ### Were these binaries created from the 15.7 shim release tar?
